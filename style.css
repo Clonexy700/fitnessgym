@@ -928,6 +928,7 @@ background-size: cover;
 
 /* :: 12.0 Breadcumb Area CSS */
 .breadcumb-area {
+  background-image: url(img/bg-img/breadcumb.jpg);
   position: relative;
   z-index: 10;
   width: 100%;
@@ -1282,6 +1283,12 @@ background-size: cover;
       font-size: 24px; } }
 
 /* :: 17.1.0 Single Cool Facts CSS */
+.cool-facts-area {
+  background-image: url(img/bg-img/bg-13.jpg);
+  padding: 100px;
+  background-size: cover;
+  background-color: #ef9e0e;
+}
 .single-cool-fact {
   position: relative;
   z-index: 1; }
